@@ -5,4 +5,5 @@
 Telegram: @Nik_Do
 
 Назначения папок:
-* cdr_tarrification - материалы по первой лабораторной работе
+* cdr_tariffication - материалы по первой лабораторной работе
+* netflow_tariffication - материалы по второй лабораторной работе
